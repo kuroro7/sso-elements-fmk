@@ -1,0 +1,9 @@
+module SSO
+  module Elements
+    class Element
+      @fields: untyped
+
+      attr_accessor fields: untyped
+    end
+  end
+end

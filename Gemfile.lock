@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    sso-elements-fmk (0.1.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.24.1)
+    mutex_m (0.2.0)
+    rake (13.2.1)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  minitest (~> 5.16)
+  mutex_m
+  rake (~> 13.0)
+  sso-elements-fmk!
+
+BUNDLED WITH
+   2.5.11

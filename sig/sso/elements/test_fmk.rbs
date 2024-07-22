@@ -1,0 +1,7 @@
+module SSO
+  module Elements
+    class TestFmk
+      def test_that_it_has_a_version_number: -> untyped
+    end
+  end
+end
